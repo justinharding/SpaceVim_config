@@ -27,6 +27,8 @@
     filemanager = "nerdtree"
     smartcase = "true"
 
+    bootstrap_after = "config#after"
+
 # Enable autocomplete layer
 [[layers]]
 name = 'autocomplete'
