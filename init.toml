@@ -24,6 +24,9 @@
     enable_tabline_filetype_icon = true
     enable_statusline_display_mode = false
 
+    filemanager = "nerdtree"
+    smartcase = "true"
+
 # Enable autocomplete layer
 [[layers]]
 name = 'autocomplete'
@@ -34,3 +37,10 @@ auto-completion-tab-key-behavior = "smart"
 name = 'shell'
 default_position = 'top'
 default_height = 30
+
+[[layers]]
+name = 'denite'
+
+[[layers]]
+name = 'lang#javascript'
+
