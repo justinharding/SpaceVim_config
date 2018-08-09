@@ -25,7 +25,6 @@
     enable_statusline_display_mode = false
 
     filemanager = "nerdtree"
-    smartcase = "true"
 
     bootstrap_after = "config#after"
 
